@@ -1,0 +1,72 @@
+.navbar{
+    width : 100%;
+    background-color: rgba(255, 0, 119, 0);
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: solid 2px aliceblue;
+    background-color: rgb(212, 212, 212);
+    color: rgb(237, 242, 245);
+}
+span{
+    font-size: 50px;
+}
+li{
+    font-size: 30px;
+}
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(template\ queen.jpg);
+}
+.nav-body{
+    width: 620%;;
+    margin : 0%
+.nav-body ul {
+    margin: 50%;
+    padding: 0;
+    float: center;   
+}
+.nav-body li {
+    display: inline;
+    padding: 8px;
+    float: center;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    cursor: pointer;
+    color: rgb(26, 25, 24);
+}
+h2{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-size: 40px;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    background: bisque;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+h3:hover{
+    background: antiquewhite;
+

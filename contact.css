@@ -1,0 +1,53 @@
+.Queen{
+    color: black;
+    background-color: antiquewhite(100, 100 150, 0.210);
+    width: 80%;
+    padding: 40px 40px;
+    font-family: sans-serif;    
+    font-size: 10px;
+    margin: auto;
+}
+body{
+    margin: auto;
+    background-image: url(template\ queen.jpg);
+    width: 50%;
+    padding: 40px;
+}
+.Tatambihe{
+    float: right;
+    padding-top: 10px;
+    margin-top: -275px;
+    margin-right: 50px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:30px;
+}
+.Facebook{
+    text-align:left;
+font-family: sans-serif;
+font: size 20px;
+}
+.Instagram{
+text-align:left;
+font-family: sans-serif;
+font: size 20px;
+}
+.Whatsapp{
+    text-align:left;
+    font-family: sans-serif;
+    font: size 24px;
+}
+.Email{
+    text-align:left;
+font-family: sans-serif;
+font: size 24px;
+}
+.Queen{
+    padding: 20px;
+    margin-top: 150px;
+    margin-left: 60px;
+}
